@@ -1,6 +1,6 @@
-# Java Basics
+# Java DSA Practice
 
-A comprehensive collection of Java fundamentals, data structures, algorithms, design patterns, and 230+ coding practice problems.
+230+ coding problems, data structures, algorithms, sorting, OO design, and interview prep — all in Java.
 
 ## Core Java Concepts
 
